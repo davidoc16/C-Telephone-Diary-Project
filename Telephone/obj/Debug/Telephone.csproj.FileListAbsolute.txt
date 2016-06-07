@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\bin\Debug\Telephone.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\bin\Debug\Telephone.exe
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\bin\Debug\Telephone.pdb
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.exe
+c:\users\david\documents\visual studio 2015\Projects\Telephone\Telephone\obj\Debug\Telephone.pdb
